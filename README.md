@@ -52,27 +52,11 @@ Clone the repository unto your local machine cd to the folder.
 
 ## Author
 
-👤 SAMIR PAUL
-- Github: [@SamirPaul1](https://github.com/SamirPaul1) 
-- Twitter: [@SamirPaulb](https://twitter.com/SamirPaulb) 
-- Linkedin: [samirpaul](https://www.linkedin.com/in/samirpaul/) 
+👤 Ankit Karmakar
+- Github: [@AnkitKarmakar03](https://github.com/AnkitKarmakar03) 
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
 
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/javitocor/Weather-App-JS.svg?style=flat-square
-[contributors-url]: https://github.com/javitocor/Weather-App-JS/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/javitocor/Weather-App-JS.svg?style=flat-square
-[forks-url]: https://github.com/javitocor/Weather-App-JS/network/members
-[stars-shield]: https://img.shields.io/github/stars/javitocor/Weather-App-JS.svg?style=flat-square
-[stars-url]: https://github.com/javitocor/Weather-App-JS/stargazers
-[issues-shield]: https://img.shields.io/github/issues/javitocor/Weather-App-JS.svg?style=flat-square
-[issues-url]: https://github.com/javitocor/Weather-App-JS/issues
